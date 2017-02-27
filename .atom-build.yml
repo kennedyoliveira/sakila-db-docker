@@ -1,0 +1,3 @@
+cmd: "docker build -t kennedyoliveira/sakila-db ."
+name: "Build Docker Image"
+sh: true
